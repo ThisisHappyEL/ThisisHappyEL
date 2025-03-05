@@ -6,7 +6,8 @@
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 
@@ -15,4 +16,4 @@
 
 ## Связь со мной
 
-<p align="center">🔗 Телеграм: <a href="@ThisisHappyEL" target="_blank">Женя Лапин</a> Email: 1379This_is_HappyEL@mail.ru</p>
+<p align="center">🔗 Телеграм: @ThisisHappyEL Женя Лапин</a> Email: 1379This_is_HappyEL@mail.ru</p>
