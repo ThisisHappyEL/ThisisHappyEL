@@ -16,4 +16,4 @@
 
 ## Связь со мной
 
-<p align="center">🔗 Телеграм: @ThisisHappyEL Женя Лапин</a> Email: 1379This_is_HappyEL@mail.ru</p>
+<p align="center">🔗 Телеграм: @ThisisHappyEL </a> Email: 1379This_is_HappyEL@mail.ru</p>
