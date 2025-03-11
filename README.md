@@ -16,6 +16,11 @@
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img src="https://www.codewars.com/users/This_is_Happy/badges/large">
 
+На текущий момент изучаю:
+<img src="https://img.shields.io/badge/React-%231B74D2?logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-%232D79C7?logo=typescript&logoColor=white">
+
+
 ## Связь со мной
 
 <p align="center">🔗 Телеграм: @ThisisHappyEL </a> Email: 1379This_is_HappyEL@mail.ru</p>
