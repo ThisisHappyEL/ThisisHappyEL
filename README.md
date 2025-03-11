@@ -13,12 +13,12 @@
 <img src="https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-blue?logo=c%2B%2B">
 <img src="https://img.shields.io/badge/MVC-orange?logo=rubyonrails">
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img src="https://www.codewars.com/users/This_is_Happy/badges/large">
-
 На текущий момент изучаю:
 <img src="https://img.shields.io/badge/React-%231B74D2?logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-%232D79C7?logo=typescript&logoColor=white">
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img src="https://www.codewars.com/users/This_is_Happy/badges/large">
 
 
 ## Связь со мной
