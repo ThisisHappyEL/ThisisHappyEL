@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-blue?logo=c%2B%2B">
+<img src="https://img.shields.io/badge/MVC-orange?logo=rubyonrails">
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img src="https://www.codewars.com/users/This_is_Happy/badges/large">
