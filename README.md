@@ -1,6 +1,6 @@
 ## Обо мне
 
-Привет, меня зовут Женя Лапин. Я **фронтенд разработчик junior** уровня. В настоящий момент обучаюсь в **Хекслет Колледже**.
+Junior Developer. Выпускник Хекслет Колледжа. Пишу код на JavaScript/TypeScript и Python. Увлекаюсь алгоритмами и бэкенд-разработкой.
 
 ## Мои навыки
 
@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 <img src="https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-blue?logo=c%2B%2B">
 <img src="https://img.shields.io/badge/MVC-orange?logo=rubyonrails">
-
-На текущий момент изучаю:
 <img src="https://img.shields.io/badge/React-%231B74D2?logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-%232D79C7?logo=typescript&logoColor=white">
 
