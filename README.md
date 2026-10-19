@@ -21,6 +21,7 @@ Junior Developer. Выпускник Хекслет Колледжа. Пишу �
 ## Сертификаты
 
 Green-Api сертификат квалификации №2244150
+
 https://drive.google.com/file/d/1eC16M_KGwOrTCfXrv1muwDYZcdEV16Iw/view?usp=sharing
 
 
