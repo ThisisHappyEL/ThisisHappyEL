@@ -18,6 +18,11 @@ Junior Developer. Выпускник Хекслет Колледжа. Пишу �
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img src="https://www.codewars.com/users/This_is_Happy/badges/large">
 
+## Сертификаты
+
+Green-Api сертификат квалификации №2244150
+https://drive.google.com/file/d/1eC16M_KGwOrTCfXrv1muwDYZcdEV16Iw/view?usp=sharing
+
 
 ## Связь со мной
 
